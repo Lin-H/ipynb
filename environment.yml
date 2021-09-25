@@ -1,0 +1,15 @@
+name: ipynb-environment
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - matplotlib
+  - pandas
+  - scipy
+  - theano
+  - pprint
+  - pytorch
+  - torchvision
+  - torchaudio
+  - cpuonly
+  - scikit-learn 
